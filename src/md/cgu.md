@@ -1,4 +1,4 @@
-_Dernière mise à jour : 15/12/2023_
+_Dernière mise à jour : 30/01/2024_
 
 Bienvenue sur serrata.super-sympa.fr !
 
@@ -18,7 +18,6 @@ https://www.apache.org/licenses/LICENSE-2.0. La licence Apache 2.0 est une licen
 ## Objectif du site
 
 Le site Serrata a pour objectif d’enseigner les drapeaux du monde dans un contexte d’écriture rapide.
-L'objectif principal est surtout que Xavier tombe follement amoureux de moi <33...
 
 ## Conditions d'accès
 
